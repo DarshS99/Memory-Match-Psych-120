@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Memory-Match-Psych-120/static/css/main.d0739e7d.css",
-    "main.js": "/Memory-Match-Psych-120/static/js/main.e8ef4e3b.js",
+    "main.js": "/Memory-Match-Psych-120/static/js/main.9aa2e346.js",
     "index.html": "/Memory-Match-Psych-120/index.html",
     "main.d0739e7d.css.map": "/Memory-Match-Psych-120/static/css/main.d0739e7d.css.map",
-    "main.e8ef4e3b.js.map": "/Memory-Match-Psych-120/static/js/main.e8ef4e3b.js.map"
+    "main.9aa2e346.js.map": "/Memory-Match-Psych-120/static/js/main.9aa2e346.js.map"
   },
   "entrypoints": [
     "static/css/main.d0739e7d.css",
-    "static/js/main.e8ef4e3b.js"
+    "static/js/main.9aa2e346.js"
   ]
 }
